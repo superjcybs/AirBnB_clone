@@ -1,2 +1,4 @@
-# AirBnB_clone
-This is for my ALX AirBnB_clone project
+Team members who are contributors of the content to the repository.
+
+Chifundo Biziweck <chibiziweck@gmail.com>
+Timan Opiyo  <timanopiyo@gmail.com.com>
